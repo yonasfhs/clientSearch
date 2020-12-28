@@ -1,0 +1,132 @@
+{
+  "clientSearch": [
+    {
+        "firstName": "JOHN",
+        "lastName": "PERRY",
+        "fullName": "JOHN PERRY",
+        "dob": "",
+        "address": [
+            {
+                "street": "123 ST. ANN&apos;S AVENUE",
+                "city": "BRONX",
+                "state": "NY",
+                "zip": "10454",
+                "ext": "0000",
+                "apt": "10I",
+                "classification": "1000001",
+                "source": "1000005"
+            }
+        ],
+        "sex": "",
+        "ssn": "111223333",
+        "identification": [
+            {
+                "cciId": "258260180780490003",
+                "number": "08400312I08400155600",
+                "type": "1",
+                "agencyCode": "1000005",
+                "programName": "",
+                "lastVerifiedDate": "2017-08-02T19:52:12.000Z",
+                "active": ""
+            }
+        ],
+        "partyActiveIndicator": ""
+    },
+    {
+        "firstName": "JOHN",
+        "lastName": "PERRY",
+        "fullName": "JOHN PERRY",
+        "dob": "1955-03-16",
+        "address": [
+            {
+                "street": "",
+                "city": "",
+                "state": "",
+                "zip": "",
+                "ext": "",
+                "apt": "",
+                "classification": "0",
+                "source": "1000006"
+            }
+        ],
+        "sex": "M",
+        "ssn": "111223333",
+        "identification": [
+            {
+                "cciId": "428127013271453317",
+                "number": "2280866",
+                "type": "1",
+                "agencyCode": "1000006",
+                "programName": "",
+                "lastVerifiedDate": "2009-10-02T04:00:00.000Z",
+                "active": ""
+            }
+        ],
+        "partyActiveIndicator": ""
+    },
+    {
+        "firstName": "JOHN",
+        "lastName": "PERRY",
+        "fullName": "JOHN PERRY",
+        "dob": "1935-03-10",
+        "address": [
+            {
+                "street": "123 ST ANNS AVENUE 12I",
+                "city": "BRONX",
+                "state": "NY",
+                "zip": "10454",
+                "ext": "0000",
+                "apt": "",
+                "classification": "1000001",
+                "source": "1000004"
+            }
+        ],
+        "sex": "M",
+        "ssn": "111223333",
+        "identification": [
+            {
+                "cciId": "626123683638092213",
+                "number": "AB12345S",
+                "type": "1",
+                "agencyCode": "1000004",
+                "programName": "",
+                "lastVerifiedDate": "2014-03-17T16:00:00.000Z",
+                "active": ""
+            }
+        ],
+        "partyActiveIndicator": ""
+    },
+    {
+        "firstName": "JOHN",
+        "lastName": "PERRY",
+        "fullName": "JOHN PERRY",
+        "dob": "1955-03-15",
+        "address": [
+            {
+                "street": "No Legacy Value",
+                "city": "New York",
+                "state": "NY",
+                "zip": "10001",
+                "ext": "0000",
+                "apt": "",
+                "classification": "1000001",
+                "source": "1000010"
+            }
+        ],
+        "sex": "M",
+        "ssn": "111223333",
+        "identification": [
+            {
+                "cciId": "936132458811963222",
+                "number": "3888",
+                "type": "1",
+                "agencyCode": "1000010",
+                "programName": "",
+                "lastVerifiedDate": "2011-10-13T04:00:00.000Z",
+                "active": ""
+            }
+        ],
+        "partyActiveIndicator": ""
+    }
+  ]
+}
